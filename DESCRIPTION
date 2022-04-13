@@ -1,0 +1,16 @@
+Package: regexcite
+Type: Package
+Title: Make Regular Expressions More Exciting
+Version: 0.1.0
+Author: person("Scott", "Lyden", , "scottlyden@yahoo.com", role = c("aut", "cre"))
+Maintainer: The package maintainer <scottlyden@yahoo.com>
+Description: Regex utilities
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stringr
+RoxygenNote: 7.1.2
